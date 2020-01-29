@@ -4,5 +4,8 @@ In this project, we explored the problem of data augmentation and its eﬀect on
 
 
 1 - The run1.py file executes the script for data augmentation and Model Performance of Random Forests using the technique.
+
 2 - cardio_train and heart are the two datasets which are used for this project.
+
 3 - Paper.pdf is the report of the project and includes the methodlogy, results and the conclusion using this framework.
+
